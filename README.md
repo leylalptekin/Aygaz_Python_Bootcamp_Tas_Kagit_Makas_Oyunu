@@ -18,4 +18,4 @@ Kısa Simülasyon:
 ![download](https://github.com/user-attachments/assets/eab7f5b5-bbe7-4b66-83c0-4a7e09eb927c)
  
 
- 
+  
