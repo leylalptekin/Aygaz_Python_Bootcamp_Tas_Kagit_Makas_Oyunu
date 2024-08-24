@@ -19,4 +19,4 @@ Kısa Simülasyon:
     
   
         
- 
+  
