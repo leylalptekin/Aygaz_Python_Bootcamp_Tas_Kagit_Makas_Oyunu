@@ -1,5 +1,5 @@
 # Tas_Kagit_Makas_Oyunu 🤜🫱✌️
-Kurallar: 
+Kurallar:  
 1. Oyuncu taş, kağıt veya makas seçer.(taş>makas>kağıt>taş)
 2. Bilgisayar da rastgele bir seçim yapar. 
 3. Her turda kazanan belirlenir: Oyuncu kazanabilir,  
