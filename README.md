@@ -13,7 +13,7 @@ Arayüz:
 ![taş3](https://github.com/user-attachments/assets/9f9ae671-e2a9-4913-b639-90e3a5bbc796)
 ![taş4](https://github.com/user-attachments/assets/cc9c63c4-983d-4e48-9aaf-3554efba4a35)
 
-Kısa Simülasyon:
+Kısa Simülasyon: 
 
 ![download](https://github.com/user-attachments/assets/eab7f5b5-bbe7-4b66-83c0-4a7e09eb927c)
     
